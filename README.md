@@ -1,6 +1,8 @@
 # Coal Fleet Heat-Rate Estimation & Retrofit Prioritisation
 
-`Python 3.11+` · `scikit-learn 1.6+` · `Data: CC BY 4.0` · `Code License: MIT`
+[![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=flat&logo=python&logoColor=white)](https://python.org)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
 An empirical validation and uncertainty-propagation benchmark for unit-level coal power plant Station Heat Rate (SHR) estimation and retrofit prioritisation across India's coal fleet (540 labelled CEEW units across 178 plants; 787 operating GEM fleet units).
 
