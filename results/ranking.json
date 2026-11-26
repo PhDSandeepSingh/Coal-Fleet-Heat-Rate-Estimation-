@@ -1,0 +1,14 @@
+{
+  "k": 80,
+  "fleet_units": 787,
+  "jaccard_mean": 0.6875225513462949,
+  "jaccard_p05": 0.5686274509803921,
+  "robust_ge90": 51,
+  "robust_ge50": 66,
+  "ever_in_top": 289,
+  "point_top_with_p_lt50": 14,
+  "overlap_with_source_top": 60,
+  "excess_total_point_cr": 41434.79717691317,
+  "excess_total_p05_cr": 41079.524544746615,
+  "excess_total_p95_cr": 46251.04868012223
+}

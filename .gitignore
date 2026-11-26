@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+manuscript/
+Paper2_LaTeX_Source/
+Paper2_LaTeX_Source.zip
+review/
+_to_delete/
+P2_Response_to_Reviewers.md
+P2_Conditions_Response.md
+README.md
+*.tex
+*.bib
